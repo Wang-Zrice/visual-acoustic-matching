@@ -42,7 +42,7 @@ setup(
         'torchvision',
         'pytorch_lightning==1.7.7',
         'einops',
-        'torchmetrics==0.6.0',
+        'torchmetrics==0.7.0',
         'torch-audiomentations',
         'albumentations',
         'decord'
