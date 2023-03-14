@@ -41,7 +41,6 @@ setup(
         'torchaudio',
         'torchvision',
         'pytorch_lightning==1.7.7',
-        'speech_metrics',
         'einops',
         'torchmetrics==0.6.0',
         'torch-audiomentations',
